@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/saucectl/saucectl-run-action#readme",
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.10.1",
     "@actions/github": "^4.0.0",
     "@actions/tool-cache": "^1.6.1",
     "@octokit/action": "^3.1.2",
